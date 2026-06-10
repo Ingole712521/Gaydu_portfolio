@@ -31,39 +31,28 @@ export const resumeProfile = {
   ],
   experience: [
     {
-      title: "Senior Web Developer — Aarya Global Consulting",
-      period: "Jan 2023 – Present",
+      title: "Software Developer — zCon Solutions",
+      period: "Jan 2024 – Present",
       highlights: [
-        "Develop scalable Laravel applications and REST APIs",
-        "Build React-based dashboards and business platforms",
-        "Create Shopify embedded applications and extensions",
-        "Design multi-tenant and e-commerce architectures",
-        "Handle deployments and production releases",
+        "Full-time software development in a hybrid role based in Pune, Maharashtra",
+        "Build and maintain web applications and backend systems for client projects",
+        "Collaborate with cross-functional teams on feature delivery and production support",
       ],
     },
     {
-      title: "Freelance Full Stack Developer",
-      period: "Jul 2022 – Dec 2022",
+      title: "Data Science Intern — LetsGrowMore",
+      period: "Jan 2022 – Feb 2022",
       highlights: [
-        "Built Samurai Golf booking platform from scratch",
-        "Developed CRM systems and workflow automation",
-        "Delivered custom Laravel solutions for multiple clients",
+        "Worked on data analysis, visualization, and exploratory data science tasks",
+        "Applied Python and statistical techniques to real-world datasets",
       ],
     },
     {
-      title: "PHP Developer — Techbee Consulting",
-      period: "May 2019 – May 2022",
+      title: "Machine Learning Intern — Infopillar Solution",
+      period: "Dec 2021 – Jan 2022",
       highlights: [
-        "Developed Laravel applications and admin dashboards",
-        "Integrated payment gateways and third-party services",
-        "Maintained and expanded production systems",
-      ],
-    },
-    {
-      title: "Early Career",
-      period: "2017 – 2019",
-      highlights: [
-        "Worked with CodeIgniter, Laravel, React.js, and PHP applications across LBM Infotech, Aspire Web & Informatics, and freelance projects.",
+        "Explored machine learning models and training pipelines on structured data",
+        "Supported data preprocessing, model evaluation, and experimentation",
       ],
     },
   ],
@@ -91,12 +80,8 @@ export const resumeProfile = {
   ],
   education: [
     {
-      degree: "Master of Computer Science",
-      institution: "Savitribai Phule Pune University",
-    },
-    {
-      degree: "Bachelor of Computer Science",
-      institution: "Savitribai Phule Pune University",
+      degree: "Bachelor of Engineering",
+      institution: "Government College of Engineering, Karad",
     },
   ],
   highlights: [
