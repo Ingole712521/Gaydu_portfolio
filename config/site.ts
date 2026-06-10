@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
 
 export const siteConfig = {
-  name: "Suyog Mahangade",
-  shortName: "Ashwini",
-  title: "Suyog Mahangade | Senior Full Stack Developer",
-  role: "Senior Full Stack Developer (Laravel + React)",
+  name: "Gayatri Rajopadhye",
+  shortName: "Gayatri",
+  title: "Gayatri Rajopadhye | Senior  Developer",
+  role: "Senior Developer ",
   description:
-    "Portfolio of Suyog Mahangade — Senior Full Stack Developer with 8+ years of experience in Laravel, React, and scalable web applications.",
+    "Portfolio of Gayatri Rajopadhye — Senior  Developer with 2+ years of experience in , React, Node.js and scalable web applications.",
   url: "",
-  email: "",
-  phone: "",
+  email: "gayatrirajopadhye2002@gmail.com",
+  phone: "7721832943",
   phoneDisplay: "+",
   linkedin: "",
   resumePath: "",
